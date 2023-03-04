@@ -1,6 +1,8 @@
 # Cochran-Consulting-Webpage
 HTML, CSS and Javascript for new Cochran Consulting LLC's webpage
 
+attached image screenshot(1).jpg is the homepage view.
+
 
 Upcoming Updates:
 - completetion of index.html (home page)
